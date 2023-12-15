@@ -7,9 +7,9 @@ data:
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Welcome to nginx bank!</title>
+        <title>Welcome to My Nginx Server!</title>
     </head>
     <body>
-        <h1>Hello, World! bank bank</h1>
+        <h1>bank.</h1>
     </body>
     </html>
