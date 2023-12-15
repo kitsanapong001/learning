@@ -7,9 +7,10 @@ data:
     <!DOCTYPE html>
     <html>
     <head>
-      <title>My Custom Nginx Page</title>
+      <title>Custom Nginx Page</title>
     </head>
     <body>
       <h1>Hello, Kubernetes!</h1>
+      <p>This is a custom message from the ConfigMap.</p>
     </body>
     </html>
