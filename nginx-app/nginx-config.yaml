@@ -7,10 +7,9 @@ data:
     <!DOCTYPE html>
     <html>
     <head>
-      <title>Custom Nginx Page</title>
+        <title>Welcome to nginx bank!</title>
     </head>
     <body>
-      <h1>Hello, Kubernetes!</h1>
-      <p>This is a custom message from the ConfigMap.</p>
+        <h1>Hello, World! bank bank</h1>
     </body>
     </html>
